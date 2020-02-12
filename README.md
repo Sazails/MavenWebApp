@@ -1,1 +1,3 @@
 # MavenWebApp
+
+Java web application.
